@@ -1,0 +1,19 @@
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 10%;
+}
+h2{
+  color: violet;
+}
+
+.link:hover{
+  color: gold;
+
+}
+
+#button:hover{
+  background-color: violet;
+}
